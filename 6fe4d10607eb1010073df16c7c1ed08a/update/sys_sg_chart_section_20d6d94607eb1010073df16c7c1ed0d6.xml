@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>1d569d4607eb1010073df16c7c1ed010</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 18:16:32</sys_created_on>
+        <sys_id>20d6d94607eb1010073df16c7c1ed0d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents closed per week</sys_name>
+        <sys_package display_value="IncWeek" source="x_179773_incweek">6fe4d10607eb1010073df16c7c1ed08a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IncWeek">6fe4d10607eb1010073df16c7c1ed08a</sys_scope>
+        <sys_update_name>sys_sg_chart_section_20d6d94607eb1010073df16c7c1ed0d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 18:16:32</sys_updated_on>
+        <table/>
+        <title>Incidents closed per week</title>
+        <type>report</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>
